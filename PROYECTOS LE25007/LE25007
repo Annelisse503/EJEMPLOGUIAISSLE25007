@@ -1,0 +1,7 @@
+package PROYECTOSLE25007;
+
+public class LE25007 {
+    public static void main(String[] args) {
+        System.out.println("Hello World IIS");
+    }
+}
